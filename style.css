@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: gray;
+	color: white;
+}
+#savings {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	display: block;
+	border: 1px solid white;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	
+}
+#checking {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	display: block;
+	border: 1px solid white;
+	
+}
+#Label {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+h2 {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 25px;
+	color: Red;
+}
+#buttonBar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+}
+button {
+	width: 100px;
+	height: 20px;
+}
